@@ -2,10 +2,7 @@
 
 ## 📌 Overview
 The **E-Commerce Data Processing System** is a console-based Java application that simulates basic data processing operations used in e-commerce platforms.  
-This project demonstrates the use of **Java 8 functional programming concepts** along with **object-oriented design principles**.
-
-It is developed as a **2nd-year undergraduate mini project** and is suitable for showcasing Java skills in **internship applications and resumes**.
-
+This project demonstrates the use of **object-oriented design principles**.
 ---
 
 ## 🎯 Objectives
@@ -27,7 +24,7 @@ It is developed as a **2nd-year undergraduate mini project** and is suitable for
 ---
 
 ## 🛠️ Technologies Used
-- Java 8+
+- Java
 - Functional Interfaces
 - Lambda Expressions
 - Generics
